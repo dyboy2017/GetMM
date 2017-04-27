@@ -4,6 +4,8 @@ import argparse #argparse模块的作用是用于解析命令行参数
 import urllib
 import requests#urllib的request模块抓取URL内容
 import os#系统啦
+#看到以上的引入，所以你需要配置这些环境，urllib和BeautifulSoup,我觉得真的是很强大，有Urlib2更新了，学习一波吧！
+#不得不说正则表达，给我带来的感觉是非常不错的，这也体现了程序的便利性！-技术改变生活-2017-04-27
 
 from MuchThread import MuchThread #引入多线程
 from urllib import request #引入request
